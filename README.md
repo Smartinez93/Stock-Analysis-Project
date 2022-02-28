@@ -6,10 +6,12 @@ In this project I worked on editing,refactoring, and creating code to loop throu
 ## Results:
 ![Challenge Start Code](Challenge_Start_Code.png)
 
-To start the project I downloaded the project to start the refactoring process. The start of the project is mainly a skeleton that has to be completed in order to get the ideal information and run time from the code. The refactoring for this code involved me to create all the blanks that were missing in the code. This took an immense amount of time to create "For loops", "Conditionals", and "Variables" needed to complete the project.  
+To start the project I downloaded the project to start the refactoring process shown up above.
+The start of the project is mainly a skeleton that has to be completed in order to get the ideal information and run time from the code. The refactoring for this code involved me to create all the blanks that were missing in the code. This took an immense amount of time to create "For loops", "Conditionals", and "Variables" needed to complete the project.  
 
 
 ![Finished Code](End_Result_Code.png)
+Up above shows the finished code
 
 This was a very time consuming project in order to get the code to run correctly one must have all the syntax for the code to work properly.
 I found myself referring to [VBA Resources](https://www.wallstreetmojo.com/excel/vba/) to help me complete the project. Orginially before I had downloaded the Challenge my code would take aboout 2.5-3 secs to run. Afterwards once I had refactored the code and did my best to oprimize the code to speed up the run time. 
