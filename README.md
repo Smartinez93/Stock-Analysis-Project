@@ -4,7 +4,10 @@
 In this project I worked on editing,refactoring, and creating code to loop through stock data from 2017-2018. The objective was to use Microsoft Excel VBA code to collect certain stock information for those years and to determine whether or not the stocks are worth investing. Since refactoring is a key part of the coding process. I did my best to refactor the code, by trying to make the code more efficient—by taking fewer steps, using less memory, and improving the logic of the code to make it easier for future users to read. The data used for this project was two large sheets of stocks from 2017-2018, which the primary focus was on green energy stocks. Using this data a another sheet names "All Stocks Analysis" was created in order to display the pulled information using VBA Macros. 
 
 ## Results:
-To start the project I downloaded the project to start the refactoring process. [Challenge Start Code](Challenge_Start_Code.png)
+To start the project I downloaded the project to start the refactoring process. The start of the project is mainly a skeleton that has to be completed in order to get the ideal information and run time from the code. 
+![Challenge Start Code](Challenge_Start_Code.png)
+
+
 
 ## Summary:
 
